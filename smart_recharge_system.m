@@ -10,7 +10,6 @@
 % 5. Jio / Airtel / Vi / BSNL Recommendation
 % 6. 5G Preference
 % 7. Heavy / Medium / Low User Detection
-%
 %% =========================================================
 
 %% CREATE FIS
