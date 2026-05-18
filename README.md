@@ -110,3 +110,5 @@ AND 5gGRequirement is High
 
 THEN RechargeCategory is PremiumAnnual
 AND Operator is Jio
+
+
